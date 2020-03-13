@@ -1,2 +1,0 @@
-ALTER USER yaptest CREATEDB;
-ALTER DATABASE yaptest OWNER TO yaptest;
